@@ -115,8 +115,14 @@ fn main() -> ! {
 }
 ```
 
+# Trying Rust with ESP
+
+- [Rust on wokwi](https://wokwi.com/rust)
+- [wokwi VSCode extension](https://marketplace.visualstudio.com/items?itemName=Wokwi.wokwi-vscode)
+
 # Links
 
 - [esp-rs organisation](https://github.com/esp-rs)
 - [The esp book](https://esp-rs.github.io/book/)
 - [Rust on wokwi](https://wokwi.com/rust)
+- [Awesome ESP Rust](https://github.com/esp-rs/awesome-esp-rust)
